@@ -15,13 +15,14 @@ A simple, intuitive inventory management application built using **Java Swing** 
 ---
 
 ## 🧰 Project Structure
-ShoppingInventoryManager/
-├── src/
-│ ├── InventoryItem.java
-│ ├── InventoryManager.java
-│ ├── InventoryFileHandler.java ← handles file save/load
-│ ├──MainApp.java ← main GUI logic
-| └── inventory.txt ← saved inventory data (created automatically)
+ShoppingInventoryManager/<br>
+├── src/<br>
+│ ├── InventoryItem.java<br>
+│ ├── InventoryManager.java<br>
+│ ├── InventoryFileHandler.java ← handles file save/load<br>
+│ ├──MainApp.java ← main GUI logic<br>
+| └── inventory.txt ← saved inventory data (created automatically)<br>
+└── README.md<br>
 
 ## 📦 How to Compile & Run (Cross-platform)
 
@@ -42,4 +43,3 @@ javac *.java
 java MainApp
 ```
 
-└── README.md
